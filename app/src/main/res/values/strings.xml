@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFileList</string>
+    <string name="str_download">다운로드</string>
+</resources>

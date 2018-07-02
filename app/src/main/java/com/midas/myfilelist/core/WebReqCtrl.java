@@ -26,7 +26,7 @@ public class WebReqCtrl
 {
 
     /************************* Define *************************/
-    public static String PAGE_URL = "https://qa-m.onestorebooks.co.kr/resources/nbook10/test/contentList.xml";
+    public static String PAGE_URL = "";
 
     /************************* Member *************************/
     public MyApp m_App = null;
